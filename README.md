@@ -37,13 +37,13 @@ The dataset contains:
 ## 📁 Project Structure
 
 ```text
-pizza-price-Linear-Regression/
-├── data/
-│   └── pizza_data.csv
-├── notebooks/
-│   └── pizza_price_prediction.ipynb
-├── README.md
-└── .gitignore
+Pizza-Price-Linear-Regression
+- data/
+  - pizza_data.csv
+- notebooks/
+  - pizza_price_prediction.ipynb
+- README.md
+- .gitignore
 ```
 
 ## 📈 Results
